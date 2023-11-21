@@ -1,31 +1,27 @@
 <main class="chat-page">
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
-
-
-
-      <section class="nav-container">
+            <section class="nav-container">
             <div class="nav-icons ctr-column">
                   <div class="top ctr-column">
                         <button class="chat-button">
                               <i class="fas fa-comments"></i>
                               <div class="tooltip-container"><span class="tooltip">Start a chat</span></div>
                         </button>
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-inbox"></i>
                               <div class="tooltip-container"><span class="tooltip">View your messages</span></div>
                         </button>
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-paper-plane"></i>
                               <div class="tooltip-container"><span class="tooltip">Send a message</span></div>
                         </button>
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-user-friends"></i>
                               <div class="tooltip-container"><span class="tooltip">Access group chats</span></div>
                         </button>
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-user"></i>
                               <div class="tooltip-container"><span class="tooltip">View your profile</span></div>
@@ -34,24 +30,24 @@
                               <i class="fas fa-plus"></i>
                               <div class="tooltip-container"><span class="tooltip">Add a new contact</span></div>
                         </button>
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-bell"></i>
                               <div class="tooltip-container"><span class="tooltip">Manage notifications</span></div>
                         </button>
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-search"></i>
                               <div class="tooltip-container"><span class="tooltip">Search for messages</span></div>
                         </button>
                   </div>
                   <div class="bottom ctr-column">
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-cog"></i>
                               <div class="tooltip-container"><span class="tooltip">Access settings</span></div>
                         </button>
-                        
+
                         <button class="chat-button">
                               <i class="fas fa-info-circle"></i>
                               <div class="tooltip-container"><span class="tooltip">Get help and support</span></div>
@@ -60,13 +56,13 @@
             </div>
             <div class="nav-content-container">
                   <div class="nav-heading ctr-row">
-                       <div class="ctr-row-start">
+                        <div class="ctr-row-start">
                               <h1>Chats</h1>
-                       </div>
-                       <div class="ctr-items">
+                        </div>
+                        <div class="ctr-items">
                               <button><i class="fas fa-sort"></i></button>
                               <span class="sorted-by ">Newest</span>
-                       </div>
+                        </div>
                   </div>
                   <div class="nav-content">
                         <div class="search-content ctr-row">
@@ -89,7 +85,7 @@
                                           <div class="last-msg-time">02:10 PM</div>
                                     </span>
                               </div>
-                              
+
                               <!-- Additional chat entries -->
                               <div class="chat">
                                     <div class="chat-img">
@@ -104,7 +100,7 @@
                                           <div class="last-msg-time">08:30 AM</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/202" alt="profile pic">
@@ -131,7 +127,7 @@
                                           <div class="last-msg-time">10:45 AM</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/204" alt="profile pic">
@@ -145,7 +141,7 @@
                                           <div class="last-msg-time">Yesterday</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/205" alt="profile pic">
@@ -172,7 +168,7 @@
                                           <div class="last-msg-time">3 days ago</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/207" alt="profile pic">
@@ -186,7 +182,7 @@
                                           <div class="last-msg-time">4 days ago</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/208" alt="profile pic">
@@ -213,7 +209,7 @@
                                           <div class="last-msg-time">6 days ago</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/210" alt="profile pic">
@@ -227,7 +223,7 @@
                                           <div class="last-msg-time">1 week ago</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/211" alt="profile pic">
@@ -254,7 +250,7 @@
                                           <div class="last-msg-time">3 weeks ago</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/213" alt="profile pic">
@@ -268,7 +264,7 @@
                                           <div class="last-msg-time">1 month ago</div>
                                     </span>
                               </div>
-                              
+
                               <div class="chat">
                                     <div class="chat-img">
                                           <img src="https://picsum.photos/214" alt="profile pic">
@@ -282,8 +278,8 @@
                                           <div class="last-msg-time">2 months ago</div>
                                     </span>
                               </div>
-                              
-                              
+
+
 
                         </div>
                   </div>
@@ -319,124 +315,124 @@
                         </div>
                   </div>
                   <div class="content-container">
-                  <!-- Received Messages with Image on the Left -->
-                  <div class="received-messages">
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                        <div class="message-content">
-                              <p>Hi there!</p>
-                              <p>How are you doing?</p>
+                        <!-- Received Messages with Image on the Left -->
+                        <div class="received-messages">
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
+                              <div class="message-content">
+                                    <p>Hi there!</p>
+                                    <p>How are you doing?</p>
+                              </div>
                         </div>
-                  </div>
-                  
-                  <!-- Sent Messages with Image on the Right -->
-                  <div class="sent-messages">
-                        <div class="message-content">
-                              <p>Hi! I'm doing great.</p>
-                              <p>Thanks for asking!</p>
+
+                        <!-- Sent Messages with Image on the Right -->
+                        <div class="sent-messages">
+                              <div class="message-content">
+                                    <p>Hi! I'm doing great.</p>
+                                    <p>Thanks for asking!</p>
+                              </div>
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
                         </div>
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                  </div>
-                  
-                  <!-- Received Message without Image -->
-                  <div class="received-messages">
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                        <div class="message-content">
-                              <p>That's wonderful to hear!</p>
-                              <p>Anything exciting happening on your end?</p>
+
+                        <!-- Received Message without Image -->
+                        <div class="received-messages">
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
+                              <div class="message-content">
+                                    <p>That's wonderful to hear!</p>
+                                    <p>Anything exciting happening on your end?</p>
+                              </div>
                         </div>
-                  </div>
-                  
-                  <!-- Sent Message without Image -->
-                  <div class="sent-messages">
-                        <div class="message-content">
-                              <p>Not much, just working on a project.</p>
-                              <p>How about you?</p>
+
+                        <!-- Sent Message without Image -->
+                        <div class="sent-messages">
+                              <div class="message-content">
+                                    <p>Not much, just working on a project.</p>
+                                    <p>How about you?</p>
+                              </div>
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
                         </div>
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                  </div>
-                  
-                  <!-- Received Messages with Longer Text and Image -->
-                  <div class="received-messages">
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                        <div class="message-content">
-                              <p>I went on a vacation last week to the mountains. The scenery was breathtaking!</p>
+
+                        <!-- Received Messages with Longer Text and Image -->
+                        <div class="received-messages">
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
+                              <div class="message-content">
+                                    <p>I went on a vacation last week to the mountains. The scenery was breathtaking!</p>
+                              </div>
                         </div>
-                  </div>
-                  
-                  <!-- Sent Messages with Longer Text and Image -->
-                  <div class="sent-messages">
-                        <div class="message-content">
-                              <p>Wow, that sounds amazing! I've always wanted to visit the mountains.</p>
-                              <p>Do you have any photos to share?</p>
+
+                        <!-- Sent Messages with Longer Text and Image -->
+                        <div class="sent-messages">
+                              <div class="message-content">
+                                    <p>Wow, that sounds amazing! I've always wanted to visit the mountains.</p>
+                                    <p>Do you have any photos to share?</p>
+                              </div>
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
                         </div>
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                  </div>
-                  <!-- Received Messages with Image on the Left -->
-                  <div class="received-messages">
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                        <div class="message-content">
-                              <p>Hi there!</p>
-                              <p>How are you doing?</p>
+                        <!-- Received Messages with Image on the Left -->
+                        <div class="received-messages">
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
+                              <div class="message-content">
+                                    <p>Hi there!</p>
+                                    <p>How are you doing?</p>
+                              </div>
                         </div>
-                  </div>
-                  
-                  <!-- Sent Messages with Image on the Right -->
-                  <div class="sent-messages">
-                        <div class="message-content">
-                              <p>Hi! I'm doing great.</p>
-                              <p>Thanks for asking!</p>
+
+                        <!-- Sent Messages with Image on the Right -->
+                        <div class="sent-messages">
+                              <div class="message-content">
+                                    <p>Hi! I'm doing great.</p>
+                                    <p>Thanks for asking!</p>
+                              </div>
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
                         </div>
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                  </div>
-                  
-                  <!-- Received Message without Image -->
-                  <div class="received-messages">
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                        <div class="message-content">
-                              <p>That's wonderful to hear!</p>
-                              <p>Anything exciting happening on your end?</p>
+
+                        <!-- Received Message without Image -->
+                        <div class="received-messages">
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
+                              <div class="message-content">
+                                    <p>That's wonderful to hear!</p>
+                                    <p>Anything exciting happening on your end?</p>
+                              </div>
                         </div>
-                  </div>
-                  
-                  <!-- Sent Message without Image -->
-                  <div class="sent-messages">
-                        <div class="message-content">
-                              <p>Not much, just working on a project.</p>
-                              <p>How about you?</p>
+
+                        <!-- Sent Message without Image -->
+                        <div class="sent-messages">
+                              <div class="message-content">
+                                    <p>Not much, just working on a project.</p>
+                                    <p>How about you?</p>
+                              </div>
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
                         </div>
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                  </div>
-                  
-                  <!-- Received Messages with Longer Text and Image -->
-                  <div class="received-messages">
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                        <div class="message-content">
-                              <p>I went on a vacation last week to the mountains. The scenery was breathtaking!</p>
+
+                        <!-- Received Messages with Longer Text and Image -->
+                        <div class="received-messages">
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
+                              <div class="message-content">
+                                    <p>I went on a vacation last week to the mountains. The scenery was breathtaking!</p>
+                              </div>
                         </div>
-                  </div>
-                  <!-- Received Messages with Longer Text and Image -->
-                  <div class="received-messages">
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                        <div class="message-content">
-                              <p>I went on a vacation last week to the mountains. The scenery was breathtaking!</p>
+                        <!-- Received Messages with Longer Text and Image -->
+                        <div class="received-messages">
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
+                              <div class="message-content">
+                                    <p>I went on a vacation last week to the mountains. The scenery was breathtaking!</p>
+                              </div>
                         </div>
-                  </div>
-                  
-                  <!-- Sent Messages with Longer Text and Image -->
-                  <div class="sent-messages">
-                        <div class="message-content">
-                              <p>Wow, that sounds amazing! I've always wanted to visit the mountains.</p>
-                              <p>Do you have any photos to share?</p>
+
+                        <!-- Sent Messages with Longer Text and Image -->
+                        <div class="sent-messages">
+                              <div class="message-content">
+                                    <p>Wow, that sounds amazing! I've always wanted to visit the mountains.</p>
+                                    <p>Do you have any photos to share?</p>
+                              </div>
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
                         </div>
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                  </div>
-                  <div class="sent-messages">
-                        <div class="message-content">
-                              <p>Wow, that sounds amazing! I've always wanted to visit the mountains.</p>
-                              <p>Do you have any photos to share?</p>
+                        <div class="sent-messages">
+                              <div class="message-content">
+                                    <p>Wow, that sounds amazing! I've always wanted to visit the mountains.</p>
+                                    <p>Do you have any photos to share?</p>
+                              </div>
+                              <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
                         </div>
-                        <img class="message-image" src="https://picsum.photos/40" alt="Profile Pic">
-                  </div>
                   </div>
                   <div class="input-text ctr-items">
                         <div class="chat-bar ctr-row">
@@ -458,4 +454,3 @@
 
 
 </main>
- 

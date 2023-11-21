@@ -19,25 +19,6 @@ section {
       height: 100%;
 }
 
-/* welcome part*/
-.navigate .logo {
-      width: 40%;
-      height: 50%;
-      font-size: 1.4em;
-      font-family: fantasy;
-}
-.navigate nav {
-      height: 60%;
-      width: 40%;
-}
-
-.navigate nav a{
-      color: var(--bg-settings);
-      padding-bottom: 3px;
-      border-bottom: 2px solid var(--bg-settings);
-      font-size: 1.1rem;
-}
-
 .welcome {
       color: var(--bg-settings);
       background-color: var(--bg-welcome);
@@ -342,58 +323,3 @@ section {
       padding: 5px 10px;
 }
 
-/* FOOTER */
-footer {
-      display: grid;
-      color: white;
-      grid-template-rows: 60% 40%;
-      height: 60vh;
-      background-color: rgb(15, 37, 48);
-      font-size: 1.1em;
-}
-
-footer .top {
-      display: grid;
-      grid-template-columns: 60% 40%;
-}
-
-.top .links div {
-      height: 100%;
-}
-.top .links nav {
-      width: 40%;
-      height: 50%;
-}
-
-.top .links nav a {
-      color: white;
-}
-
-.send-email {
-      background-color: rgba(1, 15, 31, 0.76);
-      height: 100%;
-}
-
-.send-email input {
-      width: 25vw;
-      outline: none;
-      padding: 10px;
-      border:  2px solid var(--bg-settings);
-}
-.send-email button {
-      color: white;
-      border: 2px solid var(--bg-settings);
-      padding: 10px;
-      background-color:  var(--bg-settings);
-}
-
-.image-bg {
-      background: url(/public/assets/footer-img.jpg);
-      background-position: center;
-      background-repeat: no-repeat;
-      height: 100%;
-}
-
-.send-email h4 { 
-      margin: 10PX;
-}
