@@ -17,21 +17,19 @@
 
     <?php
 
-    // Include header except for specific pages
-    if (!in_array($route, ['chat'])) {
-        require 'includes/header.php';
-    }
+        // Include header except for specific pages
+        if (!in_array($route, ['chat'])) {
+            require 'includes/header.php';
+        }
 
+        require $page;
 
-    require $page;
+        // Include footer except for specific pages
+        if (!in_array($route, ['chat'])) {
+            require 'includes/footer.php';
+        }
 
-
-    // Include footer except for specific pages
-    if (!in_array($route, ['chat'])) {
-        require 'includes/footer.php';
-    }
-
-    echo "<script type='module' src='assets/js/$route.js' defer>";
+    echo "<script type='module' src='assets/js/$route.js' defer></script>";
 
     ?>
 

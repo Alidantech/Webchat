@@ -1,8 +1,6 @@
 <main>
       <style>
-            body {
-                  background-color: #f3f3f3;
-                  font-family: 'Arial', sans-serif;
+            main {
                   margin: 0;
                   padding: 0;
                   display: flex;
@@ -20,20 +18,20 @@
             .error-code {
                   font-size: 120px;
                   font-weight: bold;
-                  color: #e74c3c;
+                  color: red;
                   margin: 0;
             }
 
             .error-message {
                   font-size: 24px;
-                  color: #555;
+                  color: gray;
                   margin: 20px 0;
             }
 
             .back-home {
                   text-decoration: none;
-                  background-color: #3498db;
-                  color: #fff;
+                  background-color: orange;
+                  color: white;
                   padding: 10px 20px;
                   font-size: 18px;
                   border-radius: 5px;
@@ -41,7 +39,7 @@
             }
 
             .back-home:hover {
-                  background-color: #2980b9;
+                  background-color: var(--color-primary);
             }
       </style>
       <div class="container">
