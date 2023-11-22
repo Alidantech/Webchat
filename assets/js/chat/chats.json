@@ -1,0 +1,107 @@
+[
+  {
+    "imgSrc": "https://picsum.photos/200",
+    "name": "Grace Kim",
+    "lastMsgBody": "How have you been",
+    "msgCount": 3,
+    "lastMsgTime": "02:10 PM"
+  },
+  {
+    "imgSrc": "https://picsum.photos/201",
+    "name": "John Doe",
+    "lastMsgBody": "Good morning!",
+    "msgCount": 1,
+    "lastMsgTime": "08:30 AM"
+  },
+  {
+    "imgSrc": "https://picsum.photos/202",
+    "name": "Lisa Smith",
+    "lastMsgBody": "Did you get the files?",
+    "msgCount": 0,
+    "lastMsgTime": "Yesterday"
+  },
+  {
+    "imgSrc": "https://picsum.photos/203",
+    "name": "Michael Johnson",
+    "lastMsgBody": "Hey there!",
+    "msgCount": 2,
+    "lastMsgTime": "10:45 AM"
+  },
+  {
+    "imgSrc": "https://picsum.photos/204",
+    "name": "Sarah Smith",
+    "lastMsgBody": "Happy birthday!",
+    "msgCount": 1,
+    "lastMsgTime": "Yesterday"
+  },
+  {
+    "imgSrc": "https://picsum.photos/205",
+    "name": "Daniel Brown",
+    "lastMsgBody": "Let's meet for lunch",
+    "msgCount": 0,
+    "lastMsgTime": "2 days ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/206",
+    "name": "Emily Davis",
+    "lastMsgBody": "Are you coming to the party?",
+    "msgCount": 1,
+    "lastMsgTime": "3 days ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/207",
+    "name": "James Wilson",
+    "lastMsgBody": "I'll be there!",
+    "msgCount": 0,
+    "lastMsgTime": "4 days ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/208",
+    "name": "Nina Patel",
+    "lastMsgBody": "What's the plan for the weekend?",
+    "msgCount": 2,
+    "lastMsgTime": "5 days ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/209",
+    "name": "Olivia White",
+    "lastMsgBody": "How was your vacation?",
+    "msgCount": 1,
+    "lastMsgTime": "6 days ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/210",
+    "name": "David Clark",
+    "lastMsgBody": "Let's catch up soon",
+    "msgCount": 0,
+    "lastMsgTime": "1 week ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/211",
+    "name": "Amy Turner",
+    "lastMsgBody": "Happy Friday!",
+    "msgCount": 3,
+    "lastMsgTime": "2 weeks ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/212",
+    "name": "Nathan Miller",
+    "lastMsgBody": "Ready for our meeting?",
+    "msgCount": 2,
+    "lastMsgTime": "3 weeks ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/213",
+    "name": "Emma Brown",
+    "lastMsgBody": "Just got back from vacation!",
+    "msgCount": 1,
+    "lastMsgTime": "1 month ago"
+  },
+  {
+    "imgSrc": "https://picsum.photos/214",
+    "name": "Liam Davis",
+    "lastMsgBody": "How's it going?",
+    "msgCount": 0,
+    "lastMsgTime": "2 months ago"
+  }
+]

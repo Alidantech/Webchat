@@ -1,0 +1,72 @@
+[
+  {
+    "type": "received",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Hi there!", "How are you doing?"]
+  },
+  {
+    "type": "sent",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Hi! I'm doing great.", "Thanks for asking!"]
+  },
+  {
+    "type": "received",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["That's wonderful to hear!", "Anything exciting happening on your end?"]
+  },
+  {
+    "type": "sent",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Not much, just working on a project.", "How about you?"]
+  },
+  {
+    "type": "received",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["I went on a vacation last week to the mountains. The scenery was breathtaking!"]
+  },
+  {
+    "type": "sent",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Wow, that sounds amazing! I've always wanted to visit the mountains.", "Do you have any photos to share?"]
+  },
+  {
+    "type": "received",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Hi there!", "How are you doing?"]
+  },
+  {
+    "type": "sent",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Hi! I'm doing great.", "Thanks for asking!"]
+  },
+  {
+    "type": "received",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["That's wonderful to hear!", "Anything exciting happening on your end?"]
+  },
+  {
+    "type": "sent",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Not much, just working on a project.", "How about you?"]
+  },
+  {
+    "type": "received",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["I went on a vacation last week to the mountains. The scenery was breathtaking!"]
+  },
+  {
+    "type": "received",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["I went on a vacation last week to the mountains. The scenery was breathtaking!"]
+  },
+  {
+    "type": "sent",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Wow, that sounds amazing! I've always wanted to visit the mountains.", "Do you have any photos to share?"]
+  },
+  {
+    "type": "sent",
+    "imageSrc": "https://picsum.photos/40",
+    "content": ["Wow, that sounds amazing! I've always wanted to visit the mountains.", "Do you have any photos to share?"]
+  }
+]
