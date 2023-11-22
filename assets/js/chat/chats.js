@@ -70,3 +70,20 @@ export function generateChats(data) {
 }
 
 
+const chatSelector = document.querySelector('.chat');
+const messageView = document.getElementById('messages-view')
+const exitChat = document.getElementById('exit-chat')
+
+chatSelector.addEventListener("click", () => {
+
+
+  messageView.style.display = 'grid'
+
+});
+
+exitChat.addEventListener("click", () => {
+
+
+  messageView.style.display = 'none'
+
+});

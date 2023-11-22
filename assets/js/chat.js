@@ -22,3 +22,25 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch(error => console.error('Error fetching data:', error));
 });
+
+const toggleNavDrawer = document.getElementById('toggle-nav-drawer');
+const navDrawer = document.getElementById("nav-drawer");
+const chatsView = document.getElementById("chats-view");
+
+toggleNavDrawer.addEventListener("click", () => {
+
+  if (navDrawer.style.left === "-100%") {
+
+    navDrawer.style.left = '0%';
+    chatsView.style.position = "absolute";
+    chatsView.style.left = "60%";
+
+  } else {
+
+    navDrawer.style.left = "-100%";
+    chatsView.style.position = "";
+    chatsView.style.left = "0%";
+
+  }
+});
+

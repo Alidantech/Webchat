@@ -1,6 +1,6 @@
-<main class="chat-page">
-      <section class="nav-container">
-            <div class="nav-icons ctr-column">
+<main id="chat-page">
+      <section id="home-view">
+            <div class="ctr-column" id="nav-drawer">
                   <div class="top ctr-column">
                         <button class="chat-button">
                               <i class="fas fa-comments"></i>
@@ -54,8 +54,9 @@
                         </button>
                   </div>
             </div>
-            <div class="nav-content-container">
-                  <div class="nav-heading ctr-row">
+            <div id="chats-view">
+                  <div class="nav-heading ctr-space-around">
+                        <button id="toggle-nav-drawer"><i class="fas fa-bars"></i></button>
                         <div class="ctr-row-start">
                               <h1>Chats</h1>
                         </div>
@@ -72,13 +73,14 @@
                               </div>
                         </div>
                         <div class="view-content" id="chats-container">
+                              <div class="chat"></div>
                         </div>
                   </div>
             </div>
       </section>
-      <section class="main-container">
+      <section id="messages-view">
             <div class="main-header ctr-row">
-                  <div class="ctr-row-start">
+                  <div class="ctr-row-start" id="exit-chat">
                         <button><i class="fas fa-arrow-left"></i></button>
                   </div>
                   <div class="ctr-items">

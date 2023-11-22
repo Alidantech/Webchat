@@ -1,7 +1,7 @@
 <main>
   <section class="intro">
     <div class="carousel">
-      <img src="/public/assets/main-image.png" alt="main image">
+      <img src="https://picsum.photos/400/300/?random=computer" alt="main image">
       <div class="scroll-progress ctr-row">
         <span>02</span>
         <div id="carousel-bar"></div><span>04</span> <span>&lt &nbsp &gt</span>
@@ -117,7 +117,7 @@
           <a href="/chat">Get Started</a>
         </div>
         <div class="sample-image">
-          <img src="/public/assets/homepage-design.jpg" alt="sample image">
+          <img src="https://picsum.photos/250/250/?random=computer" alt="sample image">
         </div>
       </div>
       <div class="bottom">
@@ -139,8 +139,8 @@
   </section>
   <section class="outro">
     <div class="chat-images">
-      <img class="phone" src="/public/assets/chat-messages.png" alt="phone chat">
-      <img class="desktop" src="/public/assets/desktop-chat.png" alt="">
+      <img class="phone" src="https://picsum.photos/200/300/?random=phone" alt="phone chat">
+      <img class="desktop" src="https://picsum.photos/500/300/?random=computer" alt="">
     </div>
     <div class="ctr-column outro-text">
       <h3>Maximize your communication chat on both desktop <br>and phone.</h3>

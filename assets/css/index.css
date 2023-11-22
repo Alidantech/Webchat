@@ -57,7 +57,7 @@
 }
 
 body, html {
-      font-size: clamp(12px, 1vw, 1vh);
+      font-size: 1em;
       line-height: 1.5;
       font-family: 'Poppins', sans-serif;
 }
@@ -291,7 +291,7 @@ footer .top {
 }
 
 .image-bg {
-      background: url(/public/assets/footer-img.jpg);
+      background: url(https://picsum.photos/700/400/?random=computer);
       background-position: center;
       background-repeat: no-repeat;
       height: 100%;
